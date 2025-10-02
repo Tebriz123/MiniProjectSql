@@ -1,0 +1,15 @@
+C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Core\MiniProjectSql.Appilicatin\bin\Debug\net8.0\MiniProjectSql.Appilicatin.deps.json
+C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Core\MiniProjectSql.Appilicatin\bin\Debug\net8.0\MiniProjectSql.Appilicatin.dll
+C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Core\MiniProjectSql.Appilicatin\bin\Debug\net8.0\MiniProjectSql.Appilicatin.pdb
+C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Core\MiniProjectSql.Appilicatin\bin\Debug\net8.0\MiniProjectSql.Domain.dll
+C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Core\MiniProjectSql.Appilicatin\bin\Debug\net8.0\MiniProjectSql.Domain.pdb
+C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Core\MiniProjectSql.Appilicatin\obj\Debug\net8.0\MiniProjectSql.Appilicatin.csproj.AssemblyReference.cache
+C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Core\MiniProjectSql.Appilicatin\obj\Debug\net8.0\MiniProjectSql.Appilicatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Core\MiniProjectSql.Appilicatin\obj\Debug\net8.0\MiniProjectSql.Appilicatin.AssemblyInfoInputs.cache
+C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Core\MiniProjectSql.Appilicatin\obj\Debug\net8.0\MiniProjectSql.Appilicatin.AssemblyInfo.cs
+C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Core\MiniProjectSql.Appilicatin\obj\Debug\net8.0\MiniProjectSql.Appilicatin.csproj.CoreCompileInputs.cache
+C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Core\MiniProjectSql.Appilicatin\obj\Debug\net8.0\MiniProj.F2B02BAB.Up2Date
+C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Core\MiniProjectSql.Appilicatin\obj\Debug\net8.0\MiniProjectSql.Appilicatin.dll
+C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Core\MiniProjectSql.Appilicatin\obj\Debug\net8.0\refint\MiniProjectSql.Appilicatin.dll
+C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Core\MiniProjectSql.Appilicatin\obj\Debug\net8.0\MiniProjectSql.Appilicatin.pdb
+C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Core\MiniProjectSql.Appilicatin\obj\Debug\net8.0\ref\MiniProjectSql.Appilicatin.dll

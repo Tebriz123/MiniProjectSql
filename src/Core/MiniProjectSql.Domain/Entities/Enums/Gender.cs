@@ -9,9 +9,9 @@ namespace MiniProjectSql.Domain.Entities.Enums
     public enum Gender
     {
         Female = 1,
-        Male=1,
-        Other = 1,
-        Unknown =1
+        Male=2,
+        Other = 3,
+        Unknown =4
 
     }
 }

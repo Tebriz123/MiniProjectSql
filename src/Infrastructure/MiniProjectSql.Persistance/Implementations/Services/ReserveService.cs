@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace MiniProjectSql.Persistance.Implementations.Services
 {
-    public class ReserveService:IReserveService
+    public class ReserveService
     {
     }
 }

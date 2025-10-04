@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniProjectSql.Appilicatin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0255f7d28b426b40de81f1ff9da8713c97de6984")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniProjectSql.Appilicatin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniProjectSql.Appilicatin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

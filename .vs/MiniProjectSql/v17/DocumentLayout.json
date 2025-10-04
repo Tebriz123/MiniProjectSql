@@ -7,16 +7,36 @@
       "RelativeMoniker": "D:0:0:{1D31164E-06A1-447A-9951-34FE02F6B1C6}|src\\Infrastructure\\MiniProjectSql.Persistance\\MiniProjectSql.Persistance.csproj|solutionrelative:src\\infrastructure\\miniprojectsql.persistance\\implementations\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1D31164E-06A1-447A-9951-34FE02F6B1C6}|src\\Infrastructure\\MiniProjectSql.Persistance\\MiniProjectSql.Persistance.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\miniprojectsql\\src\\infrastructure\\miniprojectsql.persistance\\context\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D31164E-06A1-447A-9951-34FE02F6B1C6}|src\\Infrastructure\\MiniProjectSql.Persistance\\MiniProjectSql.Persistance.csproj|solutionrelative:src\\infrastructure\\miniprojectsql.persistance\\context\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132536E4-AB7C-4E31-B9E3-FE1B0BC2B5D9}|Presentation\\MiniProjectSql.ConsoleApp\\MiniProjectSql.ConsoleApp.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\miniprojectsql\\presentation\\miniprojectsql.consoleapp\\helper\\managmentappilication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132536E4-AB7C-4E31-B9E3-FE1B0BC2B5D9}|Presentation\\MiniProjectSql.ConsoleApp\\MiniProjectSql.ConsoleApp.csproj|solutionrelative:presentation\\miniprojectsql.consoleapp\\helper\\managmentappilication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D31164E-06A1-447A-9951-34FE02F6B1C6}|src\\Infrastructure\\MiniProjectSql.Persistance\\MiniProjectSql.Persistance.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\miniprojectsql\\src\\infrastructure\\miniprojectsql.persistance\\implementations\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D31164E-06A1-447A-9951-34FE02F6B1C6}|src\\Infrastructure\\MiniProjectSql.Persistance\\MiniProjectSql.Persistance.csproj|solutionrelative:src\\infrastructure\\miniprojectsql.persistance\\implementations\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B301C32-0CB9-4587-8F55-ECA07D02A712}|src\\Core\\MiniProjectSql.Domain\\MiniProjectSql.Domain.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\miniprojectsql\\src\\core\\miniprojectsql.domain\\entities\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B301C32-0CB9-4587-8F55-ECA07D02A712}|src\\Core\\MiniProjectSql.Domain\\MiniProjectSql.Domain.csproj|solutionrelative:src\\core\\miniprojectsql.domain\\entities\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D31164E-06A1-447A-9951-34FE02F6B1C6}|src\\Infrastructure\\MiniProjectSql.Persistance\\MiniProjectSql.Persistance.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\miniprojectsql\\src\\infrastructure\\miniprojectsql.persistance\\implementations\\services\\reserveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D31164E-06A1-447A-9951-34FE02F6B1C6}|src\\Infrastructure\\MiniProjectSql.Persistance\\MiniProjectSql.Persistance.csproj|solutionrelative:src\\infrastructure\\miniprojectsql.persistance\\implementations\\services\\reserveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3AD249-69CA-497D-8A3E-04F05050FAC7}|src\\Core\\MiniProjectSql.Appilicatin\\MiniProjectSql.Appilicatin.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\miniprojectsql\\src\\core\\miniprojectsql.appilicatin\\interfaces\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3AD249-69CA-497D-8A3E-04F05050FAC7}|src\\Core\\MiniProjectSql.Appilicatin\\MiniProjectSql.Appilicatin.csproj|solutionrelative:src\\core\\miniprojectsql.appilicatin\\interfaces\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B3AD249-69CA-497D-8A3E-04F05050FAC7}|src\\Core\\MiniProjectSql.Appilicatin\\MiniProjectSql.Appilicatin.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\miniprojectsql\\src\\core\\miniprojectsql.appilicatin\\interfaces\\services\\ireserveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B3AD249-69CA-497D-8A3E-04F05050FAC7}|src\\Core\\MiniProjectSql.Appilicatin\\MiniProjectSql.Appilicatin.csproj|solutionrelative:src\\core\\miniprojectsql.appilicatin\\interfaces\\services\\ireserveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B3AD249-69CA-497D-8A3E-04F05050FAC7}|src\\Core\\MiniProjectSql.Appilicatin\\MiniProjectSql.Appilicatin.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\miniprojectsql\\src\\core\\miniprojectsql.appilicatin\\interfaces\\services\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B3AD249-69CA-497D-8A3E-04F05050FAC7}|src\\Core\\MiniProjectSql.Appilicatin\\MiniProjectSql.Appilicatin.csproj|solutionrelative:src\\core\\miniprojectsql.appilicatin\\interfaces\\services\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B3AD249-69CA-497D-8A3E-04F05050FAC7}|src\\Core\\MiniProjectSql.Appilicatin\\MiniProjectSql.Appilicatin.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\miniprojectsql\\src\\core\\miniprojectsql.appilicatin\\interfaces\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B3AD249-69CA-497D-8A3E-04F05050FAC7}|src\\Core\\MiniProjectSql.Appilicatin\\MiniProjectSql.Appilicatin.csproj|solutionrelative:src\\core\\miniprojectsql.appilicatin\\interfaces\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B301C32-0CB9-4587-8F55-ECA07D02A712}|src\\Core\\MiniProjectSql.Domain\\MiniProjectSql.Domain.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\miniprojectsql\\src\\core\\miniprojectsql.domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,14 +55,6 @@
       "RelativeMoniker": "D:0:0:{1B301C32-0CB9-4587-8F55-ECA07D02A712}|src\\Core\\MiniProjectSql.Domain\\MiniProjectSql.Domain.csproj|solutionrelative:src\\core\\miniprojectsql.domain\\entities\\reserveditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D31164E-06A1-447A-9951-34FE02F6B1C6}|src\\Infrastructure\\MiniProjectSql.Persistance\\MiniProjectSql.Persistance.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\miniprojectsql\\src\\infrastructure\\miniprojectsql.persistance\\context\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D31164E-06A1-447A-9951-34FE02F6B1C6}|src\\Infrastructure\\MiniProjectSql.Persistance\\MiniProjectSql.Persistance.csproj|solutionrelative:src\\infrastructure\\miniprojectsql.persistance\\context\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{132536E4-AB7C-4E31-B9E3-FE1B0BC2B5D9}|Presentation\\MiniProjectSql.ConsoleApp\\MiniProjectSql.ConsoleApp.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\miniprojectsql\\presentation\\miniprojectsql.consoleapp\\helper\\managmentappilication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{132536E4-AB7C-4E31-B9E3-FE1B0BC2B5D9}|Presentation\\MiniProjectSql.ConsoleApp\\MiniProjectSql.ConsoleApp.csproj|solutionrelative:presentation\\miniprojectsql.consoleapp\\helper\\managmentappilication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3B3AD249-69CA-497D-8A3E-04F05050FAC7}|src\\Core\\MiniProjectSql.Appilicatin\\MiniProjectSql.Appilicatin.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\miniprojectsql\\src\\core\\miniprojectsql.appilicatin\\interfaces\\repositories\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B3AD249-69CA-497D-8A3E-04F05050FAC7}|src\\Core\\MiniProjectSql.Appilicatin\\MiniProjectSql.Appilicatin.csproj|solutionrelative:src\\core\\miniprojectsql.appilicatin\\interfaces\\repositories\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,24 +63,12 @@
       "RelativeMoniker": "D:0:0:{3B3AD249-69CA-497D-8A3E-04F05050FAC7}|src\\Core\\MiniProjectSql.Appilicatin\\MiniProjectSql.Appilicatin.csproj|solutionrelative:src\\core\\miniprojectsql.appilicatin\\interfaces\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D31164E-06A1-447A-9951-34FE02F6B1C6}|src\\Infrastructure\\MiniProjectSql.Persistance\\MiniProjectSql.Persistance.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\miniprojectsql\\src\\infrastructure\\miniprojectsql.persistance\\implementations\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D31164E-06A1-447A-9951-34FE02F6B1C6}|src\\Infrastructure\\MiniProjectSql.Persistance\\MiniProjectSql.Persistance.csproj|solutionrelative:src\\infrastructure\\miniprojectsql.persistance\\implementations\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D31164E-06A1-447A-9951-34FE02F6B1C6}|src\\Infrastructure\\MiniProjectSql.Persistance\\MiniProjectSql.Persistance.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\miniprojectsql\\src\\infrastructure\\miniprojectsql.persistance\\implementations\\services\\reserveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D31164E-06A1-447A-9951-34FE02F6B1C6}|src\\Infrastructure\\MiniProjectSql.Persistance\\MiniProjectSql.Persistance.csproj|solutionrelative:src\\infrastructure\\miniprojectsql.persistance\\implementations\\services\\reserveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{132536E4-AB7C-4E31-B9E3-FE1B0BC2B5D9}|Presentation\\MiniProjectSql.ConsoleApp\\MiniProjectSql.ConsoleApp.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\miniprojectsql\\presentation\\miniprojectsql.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{132536E4-AB7C-4E31-B9E3-FE1B0BC2B5D9}|Presentation\\MiniProjectSql.ConsoleApp\\MiniProjectSql.ConsoleApp.csproj|solutionrelative:presentation\\miniprojectsql.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B301C32-0CB9-4587-8F55-ECA07D02A712}|src\\Core\\MiniProjectSql.Domain\\MiniProjectSql.Domain.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\miniprojectsql\\src\\core\\miniprojectsql.domain\\entities\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B301C32-0CB9-4587-8F55-ECA07D02A712}|src\\Core\\MiniProjectSql.Domain\\MiniProjectSql.Domain.csproj|solutionrelative:src\\core\\miniprojectsql.domain\\entities\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B301C32-0CB9-4587-8F55-ECA07D02A712}|src\\Core\\MiniProjectSql.Domain\\MiniProjectSql.Domain.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\miniprojectsql\\src\\core\\miniprojectsql.domain\\entities\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B301C32-0CB9-4587-8F55-ECA07D02A712}|src\\Core\\MiniProjectSql.Domain\\MiniProjectSql.Domain.csproj|solutionrelative:src\\core\\miniprojectsql.domain\\entities\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B301C32-0CB9-4587-8F55-ECA07D02A712}|src\\Core\\MiniProjectSql.Domain\\MiniProjectSql.Domain.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\miniprojectsql\\src\\core\\miniprojectsql.domain\\miniprojectsql.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -86,7 +86,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "IReserveService.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\MiniProjectSql\\src\\Core\\MiniProjectSql.Appilicatin\\Interfaces\\Services\\IReserveService.cs",
               "RelativeDocumentMoniker": "src\\Core\\MiniProjectSql.Appilicatin\\Interfaces\\Services\\IReserveService.cs",
@@ -94,12 +94,11 @@
               "RelativeToolTip": "src\\Core\\MiniProjectSql.Appilicatin\\Interfaces\\Services\\IReserveService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T15:26:37.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T15:26:37.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "IAuthorService.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\MiniProjectSql\\src\\Core\\MiniProjectSql.Appilicatin\\Interfaces\\Services\\IAuthorService.cs",
               "RelativeDocumentMoniker": "src\\Core\\MiniProjectSql.Appilicatin\\Interfaces\\Services\\IAuthorService.cs",
@@ -107,12 +106,11 @@
               "RelativeToolTip": "src\\Core\\MiniProjectSql.Appilicatin\\Interfaces\\Services\\IAuthorService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T15:22:41.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T15:22:41.326Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IBookService.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\MiniProjectSql\\src\\Core\\MiniProjectSql.Appilicatin\\Interfaces\\Services\\IBookService.cs",
               "RelativeDocumentMoniker": "src\\Core\\MiniProjectSql.Appilicatin\\Interfaces\\Services\\IBookService.cs",
@@ -125,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "IAuthorRepository.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\MiniProjectSql\\src\\Core\\MiniProjectSql.Appilicatin\\Interfaces\\Repositories\\IAuthorRepository.cs",
               "RelativeDocumentMoniker": "src\\Core\\MiniProjectSql.Appilicatin\\Interfaces\\Repositories\\IAuthorRepository.cs",
@@ -133,25 +131,24 @@
               "RelativeToolTip": "src\\Core\\MiniProjectSql.Appilicatin\\Interfaces\\Repositories\\IAuthorRepository.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T15:03:35.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T15:03:35.091Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "ManagmentAppilication.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\MiniProjectSql\\Presentation\\MiniProjectSql.ConsoleApp\\Helper\\ManagmentAppilication.cs",
               "RelativeDocumentMoniker": "Presentation\\MiniProjectSql.ConsoleApp\\Helper\\ManagmentAppilication.cs",
               "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\MiniProjectSql\\Presentation\\MiniProjectSql.ConsoleApp\\Helper\\ManagmentAppilication.cs",
               "RelativeToolTip": "Presentation\\MiniProjectSql.ConsoleApp\\Helper\\ManagmentAppilication.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowCoAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwDUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T13:13:11.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "IBookRepository.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\MiniProjectSql\\src\\Core\\MiniProjectSql.Appilicatin\\Interfaces\\Repositories\\IBookRepository.cs",
               "RelativeDocumentMoniker": "src\\Core\\MiniProjectSql.Appilicatin\\Interfaces\\Repositories\\IBookRepository.cs",
@@ -159,18 +156,17 @@
               "RelativeToolTip": "src\\Core\\MiniProjectSql.Appilicatin\\Interfaces\\Repositories\\IBookRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAQwA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T15:19:18.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T15:19:18.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "ReserveService.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\MiniProjectSql\\src\\Infrastructure\\MiniProjectSql.Persistance\\Implementations\\Services\\ReserveService.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\MiniProjectSql.Persistance\\Implementations\\Services\\ReserveService.cs",
               "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\MiniProjectSql\\src\\Infrastructure\\MiniProjectSql.Persistance\\Implementations\\Services\\ReserveService.cs",
               "RelativeToolTip": "src\\Infrastructure\\MiniProjectSql.Persistance\\Implementations\\Services\\ReserveService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T15:09:08.752Z",
               "EditorCaption": ""
@@ -183,27 +179,27 @@
               "RelativeDocumentMoniker": "src\\Infrastructure\\MiniProjectSql.Persistance\\Implementations\\Services\\AuthorService.cs",
               "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\MiniProjectSql\\src\\Infrastructure\\MiniProjectSql.Persistance\\Implementations\\Services\\AuthorService.cs",
               "RelativeToolTip": "src\\Infrastructure\\MiniProjectSql.Persistance\\Implementations\\Services\\AuthorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T15:07:23.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "BookService.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\MiniProjectSql\\src\\Infrastructure\\MiniProjectSql.Persistance\\Implementations\\Services\\BookService.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\MiniProjectSql.Persistance\\Implementations\\Services\\BookService.cs",
               "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\MiniProjectSql\\src\\Infrastructure\\MiniProjectSql.Persistance\\Implementations\\Services\\BookService.cs",
               "RelativeToolTip": "src\\Infrastructure\\MiniProjectSql.Persistance\\Implementations\\Services\\BookService.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAewD0AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T15:07:00.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Status.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\MiniProjectSql\\src\\Core\\MiniProjectSql.Domain\\Entities\\Enums\\Status.cs",
               "RelativeDocumentMoniker": "src\\Core\\MiniProjectSql.Domain\\Entities\\Enums\\Status.cs",
@@ -211,12 +207,11 @@
               "RelativeToolTip": "src\\Core\\MiniProjectSql.Domain\\Entities\\Enums\\Status.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T17:08:30.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T17:08:30.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
               "Title": "Gender.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\MiniProjectSql\\src\\Core\\MiniProjectSql.Domain\\Entities\\Enums\\Gender.cs",
               "RelativeDocumentMoniker": "src\\Core\\MiniProjectSql.Domain\\Entities\\Enums\\Gender.cs",
@@ -229,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "ReservedItem.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\MiniProjectSql\\src\\Core\\MiniProjectSql.Domain\\Entities\\ReservedItem.cs",
               "RelativeDocumentMoniker": "src\\Core\\MiniProjectSql.Domain\\Entities\\ReservedItem.cs",
@@ -237,12 +232,11 @@
               "RelativeToolTip": "src\\Core\\MiniProjectSql.Domain\\Entities\\ReservedItem.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T16:53:10.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T16:53:10.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Author.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\MiniProjectSql\\src\\Core\\MiniProjectSql.Domain\\Entities\\Author.cs",
               "RelativeDocumentMoniker": "src\\Core\\MiniProjectSql.Domain\\Entities\\Author.cs",
@@ -250,12 +244,11 @@
               "RelativeToolTip": "src\\Core\\MiniProjectSql.Domain\\Entities\\Author.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T16:43:31.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T16:43:31.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\MiniProjectSql\\src\\Core\\MiniProjectSql.Domain\\Entities\\Book.cs",
               "RelativeDocumentMoniker": "src\\Core\\MiniProjectSql.Domain\\Entities\\Book.cs",
@@ -263,12 +256,11 @@
               "RelativeToolTip": "src\\Core\\MiniProjectSql.Domain\\Entities\\Book.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAuwBQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T16:43:06.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T16:43:06.924Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\MiniProjectSql\\src\\Core\\MiniProjectSql.Domain\\Entities\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "src\\Core\\MiniProjectSql.Domain\\Entities\\Common\\BaseEntity.cs",
@@ -276,18 +268,17 @@
               "RelativeToolTip": "src\\Core\\MiniProjectSql.Domain\\Entities\\Common\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T16:38:59.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T16:38:59.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "AppDbContex.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\MiniProjectSql\\src\\Infrastructure\\MiniProjectSql.Persistance\\Context\\AppDbContex.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\MiniProjectSql.Persistance\\Context\\AppDbContex.cs",
               "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\MiniProjectSql\\src\\Infrastructure\\MiniProjectSql.Persistance\\Context\\AppDbContex.cs",
               "RelativeToolTip": "src\\Infrastructure\\MiniProjectSql.Persistance\\Context\\AppDbContex.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBMAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T16:31:52.158Z",
               "EditorCaption": ""
@@ -295,19 +286,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "MiniProjectSql.Domain",
+              "Title": "MiniProjectSql.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\MiniProjectSql\\src\\Core\\MiniProjectSql.Domain\\MiniProjectSql.Domain.csproj",
               "RelativeDocumentMoniker": "src\\Core\\MiniProjectSql.Domain\\MiniProjectSql.Domain.csproj",
               "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\MiniProjectSql\\src\\Core\\MiniProjectSql.Domain\\MiniProjectSql.Domain.csproj",
               "RelativeToolTip": "src\\Core\\MiniProjectSql.Domain\\MiniProjectSql.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-30T16:30:02.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T16:30:02.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\MiniProjectSql\\Presentation\\MiniProjectSql.ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "Presentation\\MiniProjectSql.ConsoleApp\\Program.cs",
@@ -315,8 +305,7 @@
               "RelativeToolTip": "Presentation\\MiniProjectSql.ConsoleApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T16:11:14.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T16:11:14.86Z"
             }
           ]
         }

@@ -11,7 +11,8 @@ using System.Threading.Tasks;
 
 namespace MiniProjectSql.Persistance.Implementations.Services
 {
-    public class BookService:IBookService
+
+    public class BookService
     {
 
         public void CreateBook()
@@ -60,7 +61,7 @@ namespace MiniProjectSql.Persistance.Implementations.Services
                     PageCount = pageCount,
                     AuthorId = authorId
                 };
-
+ 
                 context.Books.Add(newBook);
                 context.SaveChanges();
 

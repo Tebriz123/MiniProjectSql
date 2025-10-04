@@ -17,3 +17,4 @@ C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Infrastructure\MiniProje
 C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Infrastructure\MiniProjectSql.Persistance\obj\Debug\net8.0\MiniProjectSql.Persistance.pdb
 C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Infrastructure\MiniProjectSql.Persistance\obj\Debug\net8.0\MiniProjectSql.Persistance.genruntimeconfig.cache
 C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Infrastructure\MiniProjectSql.Persistance\obj\Debug\net8.0\ref\MiniProjectSql.Persistance.dll
+C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Infrastructure\MiniProjectSql.Persistance\obj\Debug\net8.0\MiniProjectSql.Persistance.sourcelink.json

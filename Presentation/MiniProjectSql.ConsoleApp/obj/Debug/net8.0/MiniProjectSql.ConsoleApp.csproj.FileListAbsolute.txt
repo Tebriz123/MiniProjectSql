@@ -135,3 +135,4 @@ C:\Users\necef\OneDrive\İş masası\MiniProjectSql\Presentation\MiniProjectSql.
 C:\Users\necef\OneDrive\İş masası\MiniProjectSql\Presentation\MiniProjectSql.ConsoleApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\necef\OneDrive\İş masası\MiniProjectSql\Presentation\MiniProjectSql.ConsoleApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\necef\OneDrive\İş masası\MiniProjectSql\Presentation\MiniProjectSql.ConsoleApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\necef\OneDrive\İş masası\MiniProjectSql\Presentation\MiniProjectSql.ConsoleApp\obj\Debug\net8.0\MiniProjectSql.ConsoleApp.sourcelink.json

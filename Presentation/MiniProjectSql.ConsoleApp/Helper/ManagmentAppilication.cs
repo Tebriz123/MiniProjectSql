@@ -43,12 +43,15 @@ namespace MiniProjectSql.ConsoleApp.Helper
                         BookService.CreateBook();
                         break;
                     case 2:
+                        
                         break;
                     case 3:
                         break;
                     case 4:
                         break;
                     case 5:
+
+                        AuthorService.Create();
                         break;
                     case 6:
 

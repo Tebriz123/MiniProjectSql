@@ -9,3 +9,4 @@ C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Core\MiniProjectSql.Doma
 C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Core\MiniProjectSql.Domain\obj\Debug\net8.0\refint\MiniProjectSql.Domain.dll
 C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Core\MiniProjectSql.Domain\obj\Debug\net8.0\MiniProjectSql.Domain.pdb
 C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Core\MiniProjectSql.Domain\obj\Debug\net8.0\ref\MiniProjectSql.Domain.dll
+C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Core\MiniProjectSql.Domain\obj\Debug\net8.0\MiniProjectSql.Domain.sourcelink.json

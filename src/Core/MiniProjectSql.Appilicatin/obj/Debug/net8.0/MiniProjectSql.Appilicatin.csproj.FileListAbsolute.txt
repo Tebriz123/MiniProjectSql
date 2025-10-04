@@ -13,3 +13,4 @@ C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Core\MiniProjectSql.Appi
 C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Core\MiniProjectSql.Appilicatin\obj\Debug\net8.0\refint\MiniProjectSql.Appilicatin.dll
 C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Core\MiniProjectSql.Appilicatin\obj\Debug\net8.0\MiniProjectSql.Appilicatin.pdb
 C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Core\MiniProjectSql.Appilicatin\obj\Debug\net8.0\ref\MiniProjectSql.Appilicatin.dll
+C:\Users\necef\OneDrive\İş masası\MiniProjectSql\src\Core\MiniProjectSql.Appilicatin\obj\Debug\net8.0\MiniProjectSql.Appilicatin.sourcelink.json

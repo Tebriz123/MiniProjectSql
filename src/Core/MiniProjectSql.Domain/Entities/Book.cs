@@ -13,6 +13,8 @@ namespace MiniProjectSql.Domain.Entities
 
         public int PageCount { get; set; }
 
+        public bool IsReserved { get; set; }
+
         //Reservation
         public int AuthorId { get; set; }
 

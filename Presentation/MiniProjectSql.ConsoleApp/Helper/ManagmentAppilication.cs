@@ -31,7 +31,7 @@ namespace MiniProjectSql.ConsoleApp.Helper
 
             while (!(num == 0 && result))
             {
-             
+
 
                 Console.WriteLine("1.Create Book\n2.Delete Book\n3.Get Book by Id\n4.Show All Books\n5.Create Author\n6.Show All Authors\n7.Show Author's Books\n8.Reserve Book\n9.Reservation List\n10.Change Reservation Status\n11.User's Reservations List\n\n0.Exit");
                 str = Console.ReadLine();
@@ -43,26 +43,36 @@ namespace MiniProjectSql.ConsoleApp.Helper
                         BookService.CreateBook();
                         break;
                     case 2:
-                        
+                        BookService.DeleteBook();
                         break;
                     case 3:
+                        BookService.GetBookById();
                         break;
                     case 4:
+                        BookService.GetAll();
+                        Console.ReadKey();
                         break;
                     case 5:
-
                         AuthorService.Create();
                         break;
                     case 6:
-
+                        AuthorService.GetAll();
                         break;
                     case 7:
-
+                        AuthorService.ShowAuthorsBooks();
                         break;
                     case 8:
-
+                        ReserveService.ReserveBook();
                         break;
                     case 9:
+                        ReserveService.ReservationList();
+
+                        break;
+                    case 10:
+                        ReserveService.ChangeReservationStatus();
+                        break;
+                    case 11:
+                        ReserveService.UsersReservationsist();
                         break;
                     case 0:
                         if (result)

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniProjectSql.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0255f7d28b426b40de81f1ff9da8713c97de6984")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e4ad9c48d78dd885ddc340fd4660d234311727a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniProjectSql.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniProjectSql.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

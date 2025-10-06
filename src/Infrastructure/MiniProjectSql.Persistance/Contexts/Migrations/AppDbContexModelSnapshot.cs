@@ -8,7 +8,7 @@ using MiniProjectSql.Persistance;
 
 #nullable disable
 
-namespace MiniProjectSql.Persistance.Context.Migrations
+namespace MiniProjectSql.Persistance.Contexts.Migrations
 {
     [DbContext(typeof(AppDbContex))]
     partial class AppDbContexModelSnapshot : ModelSnapshot
@@ -56,9 +56,13 @@ namespace MiniProjectSql.Persistance.Context.Migrations
                     b.Property<int>("AuthorId")
                         .HasColumnType("int");
 
+                    b.Property<bool>("IsReserved")
+                        .HasColumnType("bit");
+
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
 
                     b.Property<int>("PageCount")
                         .HasColumnType("int");
@@ -86,7 +90,7 @@ namespace MiniProjectSql.Persistance.Context.Migrations
 
                     b.Property<string>("FinCode")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("CHAR(7)");
 
                     b.Property<DateTime>("StartDate")
                         .HasColumnType("datetime2");
@@ -97,6 +101,8 @@ namespace MiniProjectSql.Persistance.Context.Migrations
                     b.HasKey("Id");
 
                     b.HasIndex("BookId");
+
+                    b.HasIndex("FinCode");
 
                     b.ToTable("ReservedItems");
                 });

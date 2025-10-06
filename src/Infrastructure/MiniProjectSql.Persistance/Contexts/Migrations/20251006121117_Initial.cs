@@ -3,10 +3,10 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace MiniProjectSql.Persistance.Context.Migrations
+namespace MiniProjectSql.Persistance.Contexts.Migrations
 {
     /// <inheritdoc />
-    public partial class initial : Migration
+    public partial class Initial : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -32,8 +32,9 @@ namespace MiniProjectSql.Persistance.Context.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Name = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
                     PageCount = table.Column<int>(type: "int", nullable: false),
+                    IsReserved = table.Column<bool>(type: "bit", nullable: false),
                     AuthorId = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
@@ -53,7 +54,7 @@ namespace MiniProjectSql.Persistance.Context.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    FinCode = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    FinCode = table.Column<string>(type: "CHAR(7)", nullable: false),
                     StartDate = table.Column<DateTime>(type: "datetime2", nullable: false),
                     EndTime = table.Column<DateTime>(type: "datetime2", nullable: false),
                     Status = table.Column<int>(type: "int", nullable: false),
@@ -79,6 +80,11 @@ namespace MiniProjectSql.Persistance.Context.Migrations
                 name: "IX_ReservedItems_BookId",
                 table: "ReservedItems",
                 column: "BookId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_ReservedItems_FinCode",
+                table: "ReservedItems",
+                column: "FinCode");
         }
 
         /// <inheritdoc />
